@@ -51,3 +51,8 @@ This is another text that is not related to the previous quote.
 
 > This is another quote.
 
+
+# Links
+- <a href="http://google.com">This is an HTML link</a>
+- [This is a link in Markdown](http://google.com)
+- [This is a link to the index](index.html)
