@@ -9,3 +9,12 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 - #### Heading H4
 - ##### Heading H5
 - ###### Heading H6
+
+# Underlines
+
+Underline 1
+---
+
+Underline 2
+===
+
