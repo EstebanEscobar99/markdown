@@ -42,3 +42,12 @@ Underline 2
 - Second item
 - Third item
 
+# Blockquotes
+This is a text referring to a quote that we will put below:
+
+> This is a quote.
+
+This is another text that is not related to the previous quote.
+
+> This is another quote.
+
