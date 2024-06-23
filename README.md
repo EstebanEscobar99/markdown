@@ -57,6 +57,37 @@ Not in all cases the markdown format will apply, only in some editors.
 - Second item
 - Third item
 
+### Task List
+
+Not in all cases the markdown format will apply, only in some editors.
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+### Definition List
+
+Not in all cases the markdown format will apply, only in some editors.
+
+- This is the HTML format.
+
+    <dl>
+    <dt>First Term</dt>
+    <dd>This is the definition of the first term.</dd>
+    <dt>Second Term</dt>
+    <dd>This is one definition of the second term. </dd>
+    <dd>This is another definition of the second term.</dd>
+    </dl>
+
+- This is the markdown format.
+
+    First Term
+    : This is the definition of the first term.
+
+    Second Term
+    : This is one definition of the second term.
+    : This is another definition of the second term.
+
 # Blockquotes
 
 This is a text referring to a quote that we will put below:
