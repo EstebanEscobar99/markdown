@@ -19,6 +19,12 @@ Underline 1
 Underline 2
 ===
 
+Underline 3
+***
+
+Underline 4
+___
+
 # Emphasis formats
 
 ### Basic formats
@@ -162,4 +168,3 @@ export  $initHighlight;
 | ------ | --------- | -------- |
 | Maxi   | Burgos    | 3546481  |
 | Tomas  | Tompson   | 3243243  |
-
