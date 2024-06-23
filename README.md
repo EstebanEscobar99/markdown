@@ -21,6 +21,8 @@ Underline 2
 
 # Emphasis formats
 
+### Basic formats
+
 - *italic* format of the first form.
 - _italic_ format of the second way.
 - **bold or strong** format of the first form.
@@ -28,6 +30,18 @@ Underline 2
 - ~~strikethrough~~ format, normal format.
 - here we can use *italic formatting*, but also **bold** and ~~strikethrough~~.
 - here we can use all ***~~italic, bold and strikethrough~~***.
+
+### More specialized formats
+
+Not in all cases the markdown format will apply, only in some editors.
+
+- This is the HTML format to <mark>highlight</mark> a word.
+- This is the markdown format to ==highlight== a word.
+- This is the HTML format to subscript H<sub>2</sub>O a word.
+- This is the markdown format to subscript H~2~O a word.
+- This is the HTML format to superscript X<sup>2</sup> a word.
+- This is the markdown format to superscript X^2^ a word.
+- This is the way to use emojis :joy:.
 
 # Lists
 
@@ -110,4 +124,11 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+
+# Tables
+
+|  Name  |  Surname  | Document |
+| ------ | --------- | -------- |
+| Maxi   | Burgos    | 3546481  |
+| Tomas  | Tompson   | 3243243  |
 
