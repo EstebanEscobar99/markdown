@@ -1,4 +1,5 @@
 # Markdown Cheat Sheet
+
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements.
 
 # Headings
@@ -43,6 +44,7 @@ Underline 2
 - Third item
 
 # Blockquotes
+
 This is a text referring to a quote that we will put below:
 
 > This is a quote.
@@ -53,6 +55,13 @@ This is another text that is not related to the previous quote.
 
 
 # Links
+
 - <a href="http://google.com">This is an HTML link</a>
 - [This is a link in Markdown](http://google.com)
 - [This is a link to the index](index.html)
+
+# Images
+
+![Any Logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
+![GitHub Logo](images/GitHub-logo.png)
