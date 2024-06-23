@@ -28,3 +28,17 @@ Underline 2
 - here we can use *italic formatting*, but also **bold** and ~~strikethrough~~.
 - here we can use all ***~~italic, bold and strikethrough~~***.
 
+# Lists
+
+### Ordered List
+
+1. First item
+2. Second item
+3. Third item
+
+### Unordered List
+
+- First item
+- Second item
+- Third item
+
